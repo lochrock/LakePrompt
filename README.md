@@ -1,4 +1,3 @@
-# FOR CS4964 INSTRUCTORS
 
 Final project video: https://www.youtube.com/watch?v=WTw-CfKQz2Y  
 Final project report: https://docs.google.com/document/d/18_QpkRfaMsjdLDJJc2h_Xb8v9faGFAYT-95sEH-TGfY/edit?usp=sharing
